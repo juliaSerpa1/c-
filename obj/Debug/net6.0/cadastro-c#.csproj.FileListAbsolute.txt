@@ -1,0 +1,15 @@
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.csproj.AssemblyReference.cache
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.AssemblyInfoInputs.cache
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.AssemblyInfo.cs
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.csproj.CoreCompileInputs.cache
+/home/serppa/Documentos/cadastro-c#/bin/Debug/net6.0/cadastro-c#
+/home/serppa/Documentos/cadastro-c#/bin/Debug/net6.0/cadastro-c#.deps.json
+/home/serppa/Documentos/cadastro-c#/bin/Debug/net6.0/cadastro-c#.runtimeconfig.json
+/home/serppa/Documentos/cadastro-c#/bin/Debug/net6.0/cadastro-c#.dll
+/home/serppa/Documentos/cadastro-c#/bin/Debug/net6.0/cadastro-c#.pdb
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.dll
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/refint/cadastro-c#.dll
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.pdb
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/cadastro-c#.genruntimeconfig.cache
+/home/serppa/Documentos/cadastro-c#/obj/Debug/net6.0/ref/cadastro-c#.dll
